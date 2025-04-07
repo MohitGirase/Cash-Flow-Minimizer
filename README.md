@@ -1,5 +1,5 @@
 
-# 🏦 Cash Flow Minimizer for Banks
+# 🏦 Cash Flow Minimizer
 
 This project implements a **Cash Flow Minimizer** algorithm designed for **inter-bank settlements**. The goal is to reduce the number of financial transactions required to settle outstanding amounts between multiple banks. When direct settlements aren't possible (e.g., differing transaction methods), the **World Bank** acts as an intermediary.
 
@@ -80,10 +80,6 @@ World Bank pays Bank B: 30M
 
 - **Time Complexity**: O(n²) worst case
 - **Space Complexity**: O(n)
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 🤝 Contributing
 
